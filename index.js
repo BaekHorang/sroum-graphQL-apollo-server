@@ -12,6 +12,7 @@ const typeDefs = gql`
     }
 `
 
+//modification
 const resolvers = {
     Query: {
         spots: () => database.spots
