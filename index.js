@@ -10,6 +10,8 @@ const routes = require('./typedefs-resolvers/routes')
 const trips = require('./typedefs-resolvers/trips')
 const regions = require('./typedefs-resolvers/regions')
 
+//modularized: 2022-09-23
+
 const typeDefs = [
     queries,
     mutations,
