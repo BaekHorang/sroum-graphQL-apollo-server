@@ -1,0 +1,6 @@
+const database = require('./database')
+// console.log(database.locations)
+// console.log(database.spots)
+// console.log(database.routes)
+// console.log(database.trips)
+console.log(database.regions)

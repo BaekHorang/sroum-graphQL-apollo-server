@@ -4,9 +4,11 @@ console.log('[database.js] start initialization')
 const csvToJson = require('convert-csv-to-json')
 
 const database = {
+    locations: [],
     spots: [],
     routes: [],
-    trips: []
+    trips: [],
+    regions: []
 }
 
 

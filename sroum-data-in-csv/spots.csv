@@ -1,8 +1,6 @@
-col1,col2,col3,col4
-spot,dump,dump,dump
-spot,dump,dump,dump
-spot,dump,dump,dump
-spot,dump,dump,dump
-spot,dump,dump,dump
-spot,dump,dump,dump
-spot,dump,dump,dump
+id,name,regionId,title,subtitle
+spot1,name1,region1,title1,subtitle1
+spot2,name2,region1,title2,subtitle2
+spot3,name3,region1,title3,subtitle3
+spot4,name4,region2,title4,subtitle4
+spot5,name5,region2,title5,subtitle5

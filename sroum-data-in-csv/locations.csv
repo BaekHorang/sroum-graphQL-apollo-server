@@ -1,0 +1,4 @@
+id,name,regionId,addr,desc
+loc1,loc1name,region1,loc1addr,loc1desc
+loc2,loc2name,region1,loc2addr,loc2desc
+loc3,loc3name,region2,loc3addr,loc3desc
